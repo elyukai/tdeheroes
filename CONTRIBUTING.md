@@ -12,11 +12,11 @@ If you have a question please use the [listed forums](https://github.com/Elyther
 
 Please include the following:
 
-- The version of the app you are using. You can find the version number either in About > Third-party licenses in the app or when hovering with your mouse over the tdeheroes.exe.
+- The version of the app you are using. You can find the version in the About > Third-party licenses section of the app.
 - A *detailed* description of what you have done.
 - What you expected to happen and what actually happened.
 
-The Alpha version also provides access to the Chrome DevTools via the bug button in the top right corner. If you are not familiar with web development: Check the Console tab, if there are any errors shown. In that case please include the error message (first line inluding the is enough).
+The Alpha version also provides access to the Chrome DevTools via the bug button in the top right corner. If you are not familiar with web development: Check if there are any errors shown in the Console tab. In that case please include the error message (first line is enough).
 
 ## 4. Do you have a suggestion?
 
