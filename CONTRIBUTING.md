@@ -16,7 +16,7 @@ Please include the following:
 - A *detailed* description of what you have done.
 - What you expected to happen and what actually happened.
 
-The Alpha version also provides access to the Chrome DevTools via the bug button in the top right corner. If you are not familiar with web development: Check if there are any errors shown in the Console tab. In that case please include the error message (first line is enough).
+The Alpha version also provides access to the Chrome DevTools via the bug button in the top right corner. If you are not familiar with web development: Check if there are any errors shown in the Console tab. In that case please include the error message (first line, including the line number on the right, is enough).
 
 ## 4. Do you have a suggestion?
 
