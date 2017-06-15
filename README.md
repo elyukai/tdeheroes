@@ -4,7 +4,7 @@ This is the bug and feature tracker for TDE5 Heroes, a desktop application for T
 
 ## Installing
 
-There are still a few features missing, but you can download the Alpha [here](http://www.ulisses-ebooks.de/product/209711/DSA5-Heldentool-Alpha-Beta). To use it, you just have to unzip the file. **Please note that it is currently only available in German! However, an English version is also planned. Stay tuned!**
+There are still a few features missing, but you can download the Alpha [here](http://www.ulisses-ebooks.de/product/209711/DSA5-Heldentool-Alpha). To use it, you just have to unzip the file.
 
 ## Contributing
 
