@@ -1,3 +1,14 @@
+# Next update
+
+- *Zertrümmern* does not require *Rundumschlag I* anymore.
+- Protective/Warding Circles now require *Magical Signs*.
+- Added missing *Ahnenzeichen* from The Warring Kingdoms. They require *Magical Signs* as well.
+- *Nimble* now increases MOV by 1.
+- *Immunity to (Disease/Poison)* now correctly adds the selected entry.
+- Derived characteristics are now correctly calculated on character sheet.
+- Item templates have floating number values (again). This won't affect non-locked item templates in items.
+- Requiring Spells now correctly disables the decrease button if the SR hits the required value.
+
 # 0.48.1
 
 - Undo function is working again for advantages, disadvantages and special abilities.
