@@ -6,8 +6,16 @@
 - *Nimble* now increases MOV by 1.
 - *Immunity to (Disease/Poison)* now correctly adds the selected entry.
 - Derived characteristics are now correctly calculated on character sheet.
-- Item templates have floating number values (again). This won't affect non-locked item templates in items.
+- Item templates have floating number values (again). This **won't** affect non-locked item templates in items.
 - Requiring Spells now correctly disables the decrease button if the SR hits the required value.
+- Invalid avatar paths will no longer result in a colored border with black background and an invalid file error in the console.
+- Now filters Aspect Knowledge selection by active tradition.
+- Now sorts lists properly depending on the selected locale (e.g. ä, ö and ü in German are basically treated as a, o and u respectively).
+- Includes new traditions, aspects and liturgcal chants from AGI.
+- Items now correcly reset if you load a character after you opened/created a character with items.
+- *Improved Dodge* now increases DO value.
+- Profession *Spy* now correctly increases *Commerce* by 3.
+- The used attributes for the skill check of ODEM ARCANUM are SGC/INT/INT now (following the German Regel-Wiki).
 
 # 0.48.1
 
