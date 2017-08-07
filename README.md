@@ -16,6 +16,8 @@ This repository only contains the issues and the rough roadmap for this app, but
 - [DSAforum.de (German)](http://www.dsaforum.de/viewtopic.php?f=162&t=45064)
 - [Ulisses North America Forum (English)](http://www.ulisses-us.com/forum/viewtopic.php?f=14&t=953)
 
+Fixed issues can be found in the [CHANGELOG.md](CHANGELOG.md) or via [the issue tracker](https://github.com/Elytherion/tdeheroes/issues?q=is:issue+is:closed).
+
 ## Roadmap
 
 For details please check out the issues and provided links above!

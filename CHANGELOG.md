@@ -11,11 +11,26 @@
 - Invalid avatar paths will no longer result in a colored border with black background and an invalid file error in the console.
 - Now filters Aspect Knowledge selection by active tradition.
 - Now sorts lists properly depending on the selected locale (e.g. ä, ö and ü in German are basically treated as a, o and u respectively).
-- Includes new traditions, aspects and liturgcal chants from AGI.
+- Includes new traditions, aspects and liturgcal chants from **AGI**.
 - Items now correcly reset if you load a character after you opened/created a character with items.
-- *Improved Dodge* now increases DO value.
+- *Improved Dodge I-III* now increases DO value.
 - Profession *Spy* now correctly increases *Commerce* by 3.
 - The used attributes for the skill check of ODEM ARCANUM are SGC/INT/INT now (following the German Regel-Wiki).
+- *Combat Reflexes I-III* now increases INI value.
+- Window is maximizable, unmaximizable and resizable.
+	- Added a title bar on Windows and Linux, providing buttons in Windows 10 UWP style to minimize, (un)maximize and close the app. This bar is also the draggable area of the window.
+- Removed the Start tab.
+- Improved general performance.
+- In *Profile Overview* and *Character Sheet* tabs, entries such as `Skill Specialization (Climbing: Trees), Skill Specialization (Survival: Find Campsite)` are now written as `Skill Specialization (Climbing: Trees, Survival: Find Campsite)`, providing a better overview and readability in addition to more space.
+- A new Redo button is added to the Navigation Bar. History resets after saving, finishing RCP selection and finishing character creation as well as switching to another character.
+
+## German Specific
+
+- Added info for selected race in Races tab.
+
+## English Specific
+
+- Added info box for selected race in Races tab, but (most of the) texts are still missing.
 
 # 0.48.1
 
