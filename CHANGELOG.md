@@ -1,4 +1,4 @@
-# Next update
+# 0.49.0
 
 - *Zertrümmern* does not require *Rundumschlag I* anymore.
 - Protective/Warding Circles now require *Magical Signs*.
@@ -13,6 +13,8 @@
 - Now sorts lists properly depending on the selected locale (e.g. ä, ö and ü in German are basically treated as a, o and u respectively).
 - Includes new traditions, aspects and liturgcal chants from **AGI**.
 - Items now correcly reset if you load a character after you opened/created a character with items.
+- Item weights are now correctly displayed.
+- Item PA mods do not use the AT mod value anymore.
 - *Improved Dodge I-III* now increases DO value.
 - Profession *Spy* now correctly increases *Commerce* by 3.
 - The used attributes for the skill check of ODEM ARCANUM are SGC/INT/INT now (following the German Regel-Wiki).
@@ -23,10 +25,15 @@
 - Improved general performance.
 - In *Profile Overview* and *Character Sheet* tabs, entries such as `Skill Specialization (Climbing: Trees), Skill Specialization (Survival: Find Campsite)` are now written as `Skill Specialization (Climbing: Trees, Survival: Find Campsite)`, providing a better overview and readability in addition to more space.
 - A new Redo button is added to the Navigation Bar. History resets after saving, finishing RCP selection and finishing character creation as well as switching to another character.
+- Fixed *Property Knowledge*'s and *Aspect Knowledge*'s AP cost and effects.
+- Fixed Languages and Scripts selection texts in RCP selections window.
+- Fixed loading characters with active Blessings.
 
 ## German Specific
 
 - Added info for selected race in Races tab.
+- CON instead of COU now increases WS value.
+- Fixed *Intuitive Sorcerer*'s spell limit and AE value.
 
 ## English Specific
 
