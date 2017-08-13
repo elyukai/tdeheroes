@@ -1,8 +1,8 @@
 # 0.49.0
 
-- *Zertrümmern* does not require *Rundumschlag I* anymore.
+- *Smash* does not require *Rundumschlag I* anymore.
 - Protective/Warding Circles now require *Magical Signs*.
-- Added missing *Ahnenzeichen* from The Warring Kingdoms. They require *Magical Signs* as well.
+- Added missing *Ancestor Glyphs* from The Warring Kingdoms. They require *Magical Signs* as well.
 - *Nimble* now increases MOV by 1.
 - *Immunity to (Disease/Poison)* now correctly adds the selected entry.
 - Derived characteristics are now correctly calculated on character sheet.
@@ -11,7 +11,6 @@
 - Invalid avatar paths will no longer result in a colored border with black background and an invalid file error in the console.
 - Now filters Aspect Knowledge selection by active tradition.
 - Now sorts lists properly depending on the selected locale (e.g. ä, ö and ü in German are basically treated as a, o and u respectively).
-- Includes new traditions, aspects and liturgcal chants from **AGI**.
 - Items now correcly reset if you load a character after you opened/created a character with items.
 - Item weights are now correctly displayed.
 - Item PA mods do not use the AT mod value anymore.
@@ -31,9 +30,10 @@
 
 ## German Specific
 
+- Includes new traditions, aspects and liturgcal chants from **Aventurisches Götterwirken I**.
 - Added info for selected race in Races tab.
 - CON instead of COU now increases WS value.
-- Fixed *Intuitive Sorcerer*'s spell limit and AE value.
+- Fixed *Intuitive Caster*'s spell limit and AE value.
 
 ## English Specific
 
