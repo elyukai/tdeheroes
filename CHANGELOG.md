@@ -1,3 +1,15 @@
+# 0.49.1
+
+- Fixed issue with lists for advantages, disadvantages and special abilities containing skills/spells/liturgical chants.
+- Fixed issue with RCP skill specialization selection.
+- Fixed exporting heroes as JSON.
+- Fixed equipment view.
+- Professions are now sorted by name and them by subname (e.g. the academy name). Previously, professions with subnames were sorted randomly (changing from render to render).
+
+# English Specific
+
+- Added translation for skill name separation in RCP skill specialization selection.
+
 # 0.49.0
 
 - *Smash* does not require *Rundumschlag I* anymore.
