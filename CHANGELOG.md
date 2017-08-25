@@ -1,3 +1,18 @@
+# 0.49.2
+
+- Fixed the addition of adventure points.
+- Fixed second combat technique selection for professions.
+- Fixed Settings modal.
+- Fixed small issue with `alert`s.
+
+## German Specific
+
+- Fixed problems with displaying AE for *Intuitiver Zauberer*.
+
+## English Specific
+
+- Fixed race/professions list.
+
 # 0.49.1
 
 - Fixed issue with lists for advantages, disadvantages and special abilities containing skills/spells/liturgical chants.
@@ -6,7 +21,7 @@
 - Fixed equipment view.
 - Professions are now sorted by name and them by subname (e.g. the academy name). Previously, professions with subnames were sorted randomly (changing from render to render).
 
-# English Specific
+## English Specific
 
 - Added translation for skill name separation in RCP skill specialization selection.
 
