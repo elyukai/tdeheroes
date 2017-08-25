@@ -3,7 +3,8 @@
 - Fixed the addition of adventure points.
 - Fixed second combat technique selection for professions.
 - Fixed Settings modal.
-- Fixed small issue with `alert`s.
+- Fixed small issue concerning `alert`s.
+- Item templates are no longer cleared after a new hero has been created.
 
 ## German Specific
 
