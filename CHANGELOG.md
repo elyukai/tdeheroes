@@ -1,3 +1,19 @@
+# 0.49.3
+
+- Fixed AP limits for advantages/disadvantages.
+- Removes existing equipment from item templates search results.
+- New background.
+- Updated titlebar icons on Windows and Linux.
+
+## German Specific
+
+- Fixed Skills selection for *Meistertalentierte*.
+
+## English Specific
+
+- Fixed RCP view issue(s).
+- Fixed Equipment view.
+
 # 0.49.2
 
 - Fixed the addition of adventure points.
