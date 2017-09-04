@@ -2,6 +2,7 @@
 
 - Fixed AP limits for advantages/disadvantages.
 - Removes existing equipment from item templates search results.
+- New icon.
 - New background.
 - Updated titlebar icons on Windows and Linux.
 
