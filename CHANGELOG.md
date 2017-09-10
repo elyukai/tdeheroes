@@ -1,5 +1,6 @@
 # 0.49.4
 
+- Fixed character portrait selection.
 - Heaps of stuff for the new design.
 - If you are brave you should check out the theme selection in Settings modal (although the theme is not finished yet; modals and tooltips are still dark ...).
 - Deleting a character must be confirmed now (and cannot be undone after that).
