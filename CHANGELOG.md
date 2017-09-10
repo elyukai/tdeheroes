@@ -1,3 +1,18 @@
+# 0.49.4
+
+- Heaps of stuff for the new design.
+- If you are brave you should check out the theme selection in Settings modal (although the theme is not finished yet; modals and tooltips are still dark ...).
+- Deleting a character must be confirmed now (and cannot be undone after that).
+- Now shrinks text in specific fields on character sheet.
+- Fixed routine check modifiers on character sheet.
+- Unified RCP views.
+- Added RCP info views, although a lot of text is still missing.
+
+## German Specific
+
+- Fixed newer items.
+- Fixed combat technique values of newer professions.
+
 # 0.49.3
 
 - Fixed AP limits for advantages/disadvantages.
