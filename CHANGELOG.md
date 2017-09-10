@@ -2,7 +2,7 @@
 
 - Fixed character portrait selection.
 - Heaps of stuff for the new design.
-- If you are brave you should check out the theme selection in Settings modal (although the theme is not finished yet; modals and tooltips are still dark ...).
+- Added theme selection to Settings modal (although the light theme is not finished yet; modals and tooltips are still dark ...).
 - Deleting a character must be confirmed now (and cannot be undone after that).
 - Now shrinks text in specific fields on character sheet.
 - Fixed routine check modifiers on character sheet.
