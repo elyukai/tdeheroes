@@ -12,7 +12,7 @@ It is available for Windows 7+ as well as for Linux (Ubuntu 12.04+, Fedora 21, D
 
 This repository only contains the issues and the rough roadmap for this app, but you can submit a bug, comment on issues and join the discussions on the following pages:
 
-- [Ulisses Spiele Forum (German)](http://www.ulisses-spiele.de/forum/viewtopic.php?f=279&t=11027)
+- [Orkenspalter (German)](https://www.orkenspalter.de/index.php?thread/23638-dsa5-heldentool-alpha/)
 - [DSAforum.de (German)](http://www.dsaforum.de/viewtopic.php?f=162&t=45064)
 - [Ulisses North America Forum (English)](http://www.ulisses-us.com/forum/viewtopic.php?f=14&t=953)
 
