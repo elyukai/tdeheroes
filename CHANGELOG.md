@@ -14,7 +14,7 @@
 
 ## German Specific
 
-- Added (missing) wiki info for skills, spells and liturgical chants (excluding cantrips and blessings as well as extensions).
+- Added (missing) wiki info for skills, cantrips, blessings, spells and liturgical chants (excluding extensions).
 - Added special abilities, liturgical chant extensions and dis-/advantages from **Aventurian Work of the Gods**.
 
 # 0.49.4
