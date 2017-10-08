@@ -5,6 +5,8 @@
 - Changed ItemEditor layout from one-column to two-column layout.
 - Extended P+T functionality and fixed items based on that.
 - Now allows negative AP left during character creation phase.
+- Fixed professions requiring specific cultures.
+- Fixed *Exceptional Skill/Combat Technique*
 - Fixed showing Own Profession without having extension books in profession list.
 - Wiki test page added.
 - Added *Last Changes* tab in *About* section.
