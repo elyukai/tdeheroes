@@ -1,3 +1,20 @@
+# Next update
+
+- Special abilities with tiers do not have separate entries anymore.
+- RCP costs are now calculated except for dis-/advantages and special abilities.
+- Changed ItemEditor layout from one-column to two-column layout.
+- Extended P+T functionality and fixed items based on that.
+- Now allows negative AP left during character creation phase.
+- Fixed showing Own Profession without having extension books in profession list.
+- Wiki test page added.
+- Added *Last Changes* tab in *About* section.
+- Some further redesign work.
+
+## German Specific
+
+- Added (missing) wiki info for skills, spells and liturgical chants (excluding cantrips and blessings as well as extensions).
+- Added special abilities, liturgical chant extensions and dis-/advantages from **Aventurian Work of the Gods**.
+
 # 0.49.4
 
 - Fixed character portrait selection.
