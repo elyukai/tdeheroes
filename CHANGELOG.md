@@ -1,16 +1,22 @@
 # Next update
 
 - Special abilities with tiers do not have separate entries anymore.
-- RCP costs are now calculated except for dis-/advantages and special abilities.
+- RCP costs are now entirely calculated by the app.
 - Changed ItemEditor layout from one-column to two-column layout.
 - Extended P+T functionality and fixed items based on that.
 - Now allows negative AP left during character creation phase.
+- Fixed search fields (it unintentionally converted text into a regular expression - thus some strange results).
+- Fixed filtering magical tradition's selection objects (previously, having more than 25 AP spent/received for magical advantages/disadvantages adding a tradition was completely disabled).
 - Fixed professions requiring specific cultures.
 - Fixed *Exceptional Skill/Combat Technique*
+- Fixed calculating TOU.
 - Fixed showing Own Profession without having extension books in profession list.
+- Added prerquisites and special abilities entries for professions' wiki info.
+- Fixed disabling to add AE instead of to add permanently lost AE when more than one permanent AE point is lost.
 - Wiki test page added.
 - Added *Last Changes* tab in *About* section.
 - Some further redesign work.
+- A short message is now shown in Settings dialog informing about you need to restart the app when changing the language.
 
 ## German Specific
 
