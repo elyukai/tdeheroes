@@ -1,4 +1,4 @@
-# Next update
+# 0.49.5
 
 - Special abilities with tiers do not have separate entries anymore.
 - RCP costs are now entirely calculated by the app.
