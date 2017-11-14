@@ -4,7 +4,7 @@ This is the bug and feature tracker for TDE5 Heroes, a desktop application for T
 
 ## Installing
 
-There are still a few features missing, but you can download the Alpha [here](http://www.ulisses-ebooks.de/product/209711/DSA5-Heldentool-Alpha). To use it, you just have to unzip the file.
+There are still a few features missing, but you can download the Beta [here (German page)](http://www.ulisses-ebooks.de/product/209711/DSA5-Helden-Beta) or here [here (English page)](http://www.ulisses-ebooks.de/product/209711/DSA5-Helden-Beta) (same app on both pages). You'll have an installer für Windows and a DMG for Mac, both with Auto Update support. For Linux, you have to use the .tar.gz, but I am working on an Auto Updater for Linux via AppImage.
 
 It is available for Windows 7+ as well as for Linux (Ubuntu 12.04+, Fedora 21, Debian 8) x64 and macOS 10.9+ x64.
 
