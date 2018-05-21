@@ -1,3 +1,23 @@
+# 1.0.2
+
+- Fixed issue with rendering list items of advantages/disadvantages/special abilities.
+- Fixed shortcuts being global.
+- Reloading a hero with `Stigma (Albino)` won't change selected eye color anymore.
+
+## macOS
+
+- App now quits automatically on close.
+
+## English Specific
+
+- Fixed list of professions.
+
+## German Specific
+
+- Fixed typo in failed check description of skill "Driving".
+- Fixed attribute adjustment in attributes tab.
+- Fixed levels of required instances of `Principles` and `Obligations` of `Blessed One of Kor`.
+
 # 1.0.1
 
 - Fixed special abilities tab.
