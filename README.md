@@ -2,6 +2,10 @@
 
 This is the bug and feature tracker for Optolith, a desktop application for The Dark Eye 5th Edition.
 
+## The source code of the app has been made open source, so I merged both repositories. You can find the combined one at https://github.com/elyukai/optolith-client! Please submit issues over there!
+
+This repository has been archived due to this change.
+
 ## Installing
 
 You can download the app [here (German page)](http://www.ulisses-ebooks.de/product/209711) or here [here (English page)](http://www.drivethrurpg.com/product/220253) (same app on both pages). You'll get an installer for Windows and a DMG for Mac, both with Auto Update support. For Linux, you have to use the .tar.gz, but I am working on an Auto Updater for Linux via AppImage.
